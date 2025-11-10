@@ -6,7 +6,7 @@ let a="sandipan"
 
 let age=19
 let isLoddedIn=false
-let state
+let state=null
 /*number
   boolean=true/false
   string
